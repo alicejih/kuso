@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	height: 5%;
+}
+
+.main_list {
+	float: left;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+
+.title_home {
+	background-image: url(../images/title_bg.png);
+	text-align: left;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+.title_bg {
+	float: left;
+}
+.title{
+	 
+	padding-left: 145px;
+	padding-top: 3px;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.wrong{
+	color: #E10003;
+	text-align:center;
+    margin-top: 6%;
+	margin-bottom: 2%
+}
+
+.font{
+	float: left;
+	margin-bottom: 1.5%;
+}
+
+.message{
+	float: left;
+	margin-bottom: 1.5%;
+}
+
+.SING_IN{
+	padding-top: 1%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 22%;
+}
+
+.btn_login{
+	margin-top: 5%;
+	margin-bottom: 2%;
+	height: 41px;
+	width: 102px;
+	float: left;
+    color: #FFFFFF;
+	font-size: 17pt;
+	text-align: center;
+	font-family: "微軟正黑體";
+	background-image: url(../images/btn_bg.png);
+	background-repeat: no-repeat;
+	background-color: #f0d100;
+	
+}
+
+.from_btn{
+	display: inline;
+}
+
+.btn_0{
+	float: left;
+	padding-top: 20px;
+	text-align: left;
+}
+.btn_1{
+	float: left;
+	padding-top: 20px;
+	margin-right: 50px;
+	text-align: left;
+}
+
+.btn_logout{
+	float: left;
+	padding-top: 20px;
+	margin-right: 50px;
+	text-align: left;
+
+}
+
+main{
+	font-size: 13pt;
+}
+
+body   {
+	background-image: url(../images/BG_all.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f0d100;
+
+}
+
+p{
+    color: darkblue;	
+	
+}
+
+

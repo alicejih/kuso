@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+.LIST_bg{
+	background:  url(../images/musical/LIST_bg.png);
+    float: left;
+	background-repeat: no-repeat;
+}
+
+
+.main_list {
+	float: left;
+	margin-top: 1%
+}
+
+.title_home {
+	background-image: url(../images/musical/title_bg.png);
+	text-align: left;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%
+}
+.title_bg {
+	float: left;
+}
+.title{
+	padding-left: 145px;
+	padding-top: 3px;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+.blank{
+   margin-left: 100px;
+}
+
+.LIST_bg{
+	padding-top: 2.2%;
+	padding-bottom: 4.5%;
+	padding-left: 24px;
+	padding-right: 24px;
+
+}
+
+.LIST_content{
+	padding-right: 100px;
+    font-size: 13px;
+}
+
+.LIST{
+	margin-left: 17.5%;
+	margin-right: 17.5%;
+	margin-top: 6%
+}
+
+.LIST_bg img{
+    height:90px;
+    width:120px;
+}
+
+body   {
+	background-image: url(../images/musical/BG_all.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 13px;
+}
+
+p{
+    color: darkblue;
+
+}

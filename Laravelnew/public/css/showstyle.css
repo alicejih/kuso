@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	margin-bottom: 5%;
+}
+
+.main_list {
+	float: left;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+
+.title_home {
+    background-size: contain;
+	display:block; 
+	margin:auto;
+	background-image: url(../images/title_bg.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+
+}
+
+.title{
+	margin-right: 10%;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.img_0{
+	display:block; 
+	margin:auto;
+    text-align:center;
+	height: 32%;
+}
+
+.font{
+	float: left;
+	margin-bottom: 1.5%;
+}
+
+.message_1{
+	word-wrap: break-word;
+	word-break: normal;
+	float: left;
+	margin-bottom: 1.5%;
+	text-align: left;
+}
+
+.message_2{
+	word-wrap: break-word;
+	word-break: normal;
+	float: left;
+	margin-bottom: 1.5%;
+	text-align: left;
+}
+
+.INTRODUCTION{
+	padding-top: 1%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 3%;
+}
+
+
+.btn_sure{
+	display:block; 
+	margin:auto;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	padding: 0;
+    height: 40px;
+	width: 100px;
+    color: #FFFFFF;
+	font-size: 17pt;
+	text-align: center;
+	background-image: url(../images/btn_bg.png);
+	background-repeat: no-repeat;	
+}
+
+
+main{
+	font-size: 13pt;
+	font-family: "微軟正黑體";
+}
+
+body   {
+	background-image: url(../images/BG_all.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f0d100;
+
+}
+
+p{
+    color: darkblue;	
+	
+}
+
+

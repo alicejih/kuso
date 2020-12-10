@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.main_list {
+	float: left;
+	margin-top: 1%
+}
+
+.title_home {
+	background-image: url(../images/title_bg.png);
+	text-align: left;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%
+}
+
+.title_bg {
+	float: left;
+}
+
+.title{
+	padding-left: 145px;
+	padding-top: 3px;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+	margin-top: 1%
+}
+
+.blank{
+   margin-left: 300px;	
+}
+
+.LIST_bg{
+	float: left;
+	margin-top: 2%;
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-top: 0.4%;
+	padding-bottom: 0%;
+}
+
+.LIST_content{
+    font-size: 13px;
+	max-width:100%;
+	text-align: center;
+}
+
+.LIST{
+	margin-left: 17%;
+	margin-right: 17%;
+	margin-top: 5%;
+	text-align: center;
+}
+
+.band{
+	margin-top: 13%;
+	text-align: center;
+}
+
+body  {
+	background-image: url(../images/HOME_BG.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #0c0c0c;
+}
+
+p{
+    color: darkblue;
+}
+
+.from_btn{
+
+	text-align: right;
+}
+
+.btn_0{
+
+	text-align: right;
+}

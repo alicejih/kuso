@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	margin-bottom: 5%;
+}
+
+.main_list {
+	float: left;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+
+.title_home {
+	background-size: contain;
+	display:block;
+	margin:auto;
+	background-image: url(../images/musical_sure/title_bg.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+
+
+}
+
+
+.title{
+    margin-right: 10%;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.font_0{
+	margin-top: 10%;
+}
+
+.font{
+    text-align:center;
+	float: left;
+	height: 30px;
+	color: #DD0003;
+	font-weight:bold;
+	font-family: "微軟正黑體";
+	font-size: 16pt;
+}
+
+.btn_sure{
+	display:block;
+	margin:auto;
+	margin-top: 10%;
+	margin-bottom: 2%;
+	padding: 0;
+    height: 40px;
+	width: 100px;
+    color: #FFFFFF;
+	font-size: 17pt;
+	text-align: center;
+	background-image: url(../images/musical_sure/btn_bg.png);
+	background-repeat: no-repeat;
+}
+
+a{
+    color: #FFFFFF;
+}
+
+
+main{
+	font-size: 13pt;
+	font-family: "微軟正黑體";
+}
+
+body   {
+	background-image: url(../images/musical_sure/BG_ALL.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f0d100;
+
+}
+
+p{
+    color: darkblue;
+
+}
+
+

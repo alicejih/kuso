@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg000{
+	background: hsla(240, 0%, 0%, 0.8);
+	float: left;
+	color: azure;
+	font-weight: 550;
+}
+.bg001{
+	background: hsla(240, 0%, 100%, 0.6);
+	float: left;
+}
+.bg002{
+	background: hsla(240, 0%, 100%, 0.6);
+	float: left;
+}
+.bg003{
+	background: hsla(240, 0%, 100%, 0.6);
+	float: left;
+}
+
+.main_list {
+	float: left;
+	margin-top: 1%
+}
+
+.title_home {
+	background-image: url(../images/announce/title_bg.png);
+	text-align: left;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 2%
+}
+.title_bg {
+	float: left;
+}
+.title{
+	padding-left: 145px;
+	padding-top: 3px;
+}
+
+.lil_member{
+	float: left;
+	align: right;
+	margin-top: 1%
+}
+
+.blank{
+   margin-left: 100px;
+}
+
+.LIST{
+	margin-left: 17.5%;
+	margin-right: 17.5%;
+	margin-top: 6%
+}
+
+body   {
+	background-image: url(../images/announce/BG_all.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+    color: darkblue;
+
+}
